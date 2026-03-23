@@ -1,0 +1,5 @@
+{
+  "name": "TypeDuel Live",
+  "description": "A real-time multiplayer typing competition where you can challenge friends via shareable links. Features live WPM tracking, accuracy metrics, and multiple difficulty levels.",
+  "requestFramePermissions": []
+}
